@@ -1,3 +1,3 @@
 
 
-I do c++ for arduino, java for FRC and other random stuff
+I do c++ for arduino, java for FRC and skript for wwwings
